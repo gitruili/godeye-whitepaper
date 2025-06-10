@@ -1,6 +1,0 @@
-# 4.2 Income Distribution
-
-The platform's income mainly comes from transaction fees, value-added service fees, etc. Transaction fees refer to the fees generated when users conduct operations such as token trading and staking. Value-added service fees include the income from paid services such as advanced data-analysis services and investment auxiliary tools.
-
-Income distribution follows the principles of fairness, transparency, and sustainability and is automatically executed through smart contracts. The specific distribution ratio is as follows: 20% of the income is used to reward users with accurate predictions, distributed in the form of tokens to encourage users to actively participate in predictions and improve prediction accuracy; 30% of the income is used for platform operation and development, covering expenses such as technology research and development, server maintenance, market promotion, and team operation to ensure the stable operation and continuous innovation of the platform; 20% of the income is injected into the ecological-development fund, used to support developer-incentive programs, organize community activities, and expand ecological partners, promoting the prosperous development of the platform ecosystem; the remaining 30% of the income is used to repurchase and burn platform tokens.
-
