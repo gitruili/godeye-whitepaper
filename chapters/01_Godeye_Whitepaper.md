@@ -1,2 +1,0 @@
-# Godeye Whitepaper
-
