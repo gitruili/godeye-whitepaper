@@ -1,1 +1,1 @@
-# 4. Team and Partners
+# 4. Team
